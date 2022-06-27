@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ' PT Serif', ' Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  
+  body {
+    background-color: rgba(128, 128, 128, 0.349);
+  }
+  
+  h1 {
+    font-size: 2em;
+    font-weight: 700;
+  }
+  
+  .form-control {
+    width: 300px;
+    margin: 2px;
+  }
+  
+  .form-select {
+    width: 260px;
+    margin: 2px;
+  }
+  
+  .header {
+    background-color: rgb(50, 167, 145);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header .form-control {
+    width: 150px;
+  }
+  
+  header .form-control , header .btn {
+    margin: 2px;
+  }
+  
+  .trybewarts-header-logo {
+    width: 60px;
+  }
+  
+  .trybewarts-login {
+    display: flex;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3%;
+  }
+  
+  #evaluation-form {
+    display: flex;
+    flex-direction: column;
+    width: 675px;
+  }
+  
+  #trybewarts-forms-logo {
+    height: 500px;
+  }
+  
+  #nome-completo {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #email-casa {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+  
+  #label-checkbox {
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .choose-family {
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .midle-part {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .btn-secondary {
+    background-color: rgb(77, 11, 77);
+  }
+  
+  textarea {
+    resize: none;
+    margin: 2px;
+    align-self: center;
+  }
+  
+  .text-box {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .text-box .form-control {
+    width: 670px;
+  }
+  
+  #select-section {
+    display: flex;
+    align-items: baseline;
+  }
+  
+  .checkboxes {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .checkboxes label {
+    margin: 5px;
+  }
+  
+  .rates .form-check-input {
+    font-size: 20px;
+    margin: 3px;
+  }
+  
+  .rates {
+    display: flex;
+  }
+  
+  .rates label {
+    margin: 2px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .textarea {
+    margin: 8px 2px;
+  }
+  
+  #label-infos {
+    margin: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    margin: 3px;
+  }
+  
+  #counter {
+    color: red;
+    background-color: lightcoral;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0 5px;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 330px;
+  }
