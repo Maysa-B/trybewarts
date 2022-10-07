@@ -1,5 +1,5 @@
 ## TrybeWarts
-First project done in pairs! [Sergio Cassete](https://www.linkedin.com/in/sergiocassette/) and I developed this project together at the end of block 6, in which _HTML forms, frameworks(bootstrap), and flexbox_ were studied.
+First project done in pairs! [Sergio Cassete](https://www.linkedin.com/in/sergiocassette/) and I developed this project together at the end of block 6, in which we studied _HTML forms, frameworks(bootstrap), and flexbox_.
 
 ![how the trybewarts project works](https://user-images.githubusercontent.com/99998543/161824448-9b5570dd-687b-4c56-bfac-21e2f184047b.gif)
 
