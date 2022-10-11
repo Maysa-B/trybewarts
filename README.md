@@ -12,5 +12,10 @@ The most important features of this project are:
 
 In addition, the page was made using several resources of _Forms_ in HTML, and its styling was done using knowledge in **flexbox** and **[Bootstrap](https://getbootstrap.com/)**.
 
+### Deploy 
+
+If you are interested in seeing the final result you can access by this [link](https://trybewarts-maysa-b.vercel.app/) the final result.
+
+
 ---------------
 If you see something that can be improved, please contact me! All feedback is very welcome.:sparkles:
