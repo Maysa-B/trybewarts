@@ -14,7 +14,7 @@ In addition, the page was made using several resources of _Forms_ in HTML, and i
 
 ### Deploy 
 
-If you are interested in seeing the final result you can access by this [link](https://trybewarts-maysa-b.vercel.app/) the final result.
+If you are interested in seeing the final result you can access it by this [link](https://trybewarts-maysa-b.vercel.app/).
 
 
 ---------------
